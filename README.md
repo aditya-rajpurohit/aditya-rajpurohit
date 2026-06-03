@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">software engineer, cse grad @ sjsu <br>prev swe @ nova ai, quicko<br>interested in backend development, distributed systems, applied AI, and data science.</p>
+<p align="left">software engineer, cse grad @ sjsu <br>software & data (core infra) @ qnovo <br>prev swe @ nova ai, quicko <br>interested in backend development, distributed systems, applied AI, and data science.</p>
 
 ###
 
